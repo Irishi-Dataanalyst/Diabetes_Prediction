@@ -1,0 +1,13 @@
+name: Diabetes_Prediction
+title: Diabetes_Prediction
+username:
+account: limeswork
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7218878
+bundleId: 6372152
+url: https://limeswork.shinyapps.io/Diabetes_Prediction/
+when: 1664983571.1221
+lastSyncTime: 1664983571.12211
+asMultiple: FALSE
+asStatic: FALSE
